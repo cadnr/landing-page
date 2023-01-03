@@ -17,6 +17,7 @@ header {
     flex-direction: column;
     background-color: #1F2937;
     padding: 20px;
+    width: 1000px;
 }
 
 .header-top {
