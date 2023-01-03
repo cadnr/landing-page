@@ -64,3 +64,26 @@ header {
     padding: 5px 25px;
     color: #f9faf8;
 }
+
+div.information {
+    padding: 20px 60px;
+    text-align: center;
+}
+
+div.illustrations {
+    display: flex;
+    justify-content: center;
+}
+
+div.illustrations div {
+    width: 150px;
+    margin: 25px;
+}
+
+div.illustrations img {
+    height: 150px;
+    width: 150px;
+    border-color: #3882F6;
+    border-style: solid;
+    border-radius: 20px;
+}
