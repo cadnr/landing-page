@@ -2,6 +2,10 @@
     font-family: roboto;
 }
 
+body {
+    width: 1000px;
+}
+
 ul {
     padding: 0;
 }
@@ -87,4 +91,14 @@ div.illustrations img {
     border-color: #3882F6;
     border-style: solid;
     border-radius: 20px;
+}
+
+div.quote {
+    background-color: #E5E7EB;
+    width: 800px;
+    padding: 50px 120px;
+}
+
+p.author {
+    text-align: end;
 }
