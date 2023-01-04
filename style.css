@@ -21,7 +21,6 @@ header {
     flex-direction: column;
     background-color: #1F2937;
     padding: 20px;
-    width: 1000px;
 }
 
 .header-top {
@@ -95,7 +94,6 @@ div.illustrations img {
 
 div.quote {
     background-color: #E5E7EB;
-    width: 800px;
     padding: 50px 120px;
 }
 
