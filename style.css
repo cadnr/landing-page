@@ -132,3 +132,10 @@ div.call-to-action-in p.main {
 div.call-to-action-in p.secondary {
     color: #E5E7EB;
 }
+
+footer {
+    text-align: center;
+    background-color: #1F2937;
+    color: #e5e7eb;
+    padding: 15px;
+}
