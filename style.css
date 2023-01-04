@@ -102,3 +102,33 @@ div.quote {
 p.author {
     text-align: end;
 }
+
+div.call-to-action-in {
+    margin: 50px 100px;
+    background-color: #3882F6;
+    border-radius: 20px;
+    padding: 25px 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div.call-to-action-in button {
+    color: #E5E7EB;
+    border-color: #e5e7eb;
+    background-color: #3882F6;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px 25px;
+}
+
+div.call-to-action-in p.main {
+    font-size: larger;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+div.call-to-action-in p.secondary {
+    color: #E5E7EB;
+}
